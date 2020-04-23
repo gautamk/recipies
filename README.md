@@ -8,5 +8,6 @@ Recipies that haven't been written down
 
 - Peel ginger
 - Peel garlic
-- Weigh ginger and garlic with 1:1 ratio
-- Add 2% by weight salt 
+- Weigh ginger and garlic on a 1:1 ratio
+- Add 2% by weight Salt 
+- mix and puree
