@@ -10,4 +10,7 @@ Recipies that haven't been written down
 - Peel garlic
 - Weigh ginger and garlic on a 1:1 ratio
 - Add 2% by weight Salt 
-- mix and puree
+- Chop and add to jar to ferment
+- Wait 1 - 2 weeks 
+- Puree to smoothness of likeness
+- Store in fridge
