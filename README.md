@@ -4,6 +4,12 @@ Recipies that haven't been written down
 
 ### Brad Makes Garlic Ginger Paste | It's Alive @ Home | Bon Appétit
 #### https://www.youtube.com/watch?v=NN-bLP2B8f4
+#### Ingredients 
+
+- Ginger
+- Garlic
+- [Optional] Honey / some other non-artificial sweetner
+
 #### Instructions
 
 - Peel ginger
