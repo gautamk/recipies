@@ -14,3 +14,10 @@ Recipies that haven't been written down
 - Wait 1 - 2 weeks 
 - Puree to smoothness of likeness
 - Store in fridge
+
+
+
+### FAQ
+
+#### Why am I writing this on github ?
+I donno man, I just felt like writing it here, Deal with it.
